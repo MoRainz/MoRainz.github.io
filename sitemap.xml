@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/friends/index.html</loc>
+    
+    <lastmod>2023-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index-1.html</loc>
+    
+    <lastmod>2023-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2023-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/10/19/%E6%9B%B4%E6%96%B0%E2%80%94%E2%80%94%E5%A4%B4%E5%83%8F%E3%80%81%E2%80%BB%E5%8F%8B%E9%93%BE%E2%80%BB%E5%92%8C%E6%89%93%E8%B5%8F%E5%8A%9F%E8%83%BD%E3%83%BE-%E2%89%A7%E2%96%BD%E2%89%A6-o/</loc>
+    
+    <lastmod>2023-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/10/19/10-19/</loc>
+    
+    <lastmod>2023-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/10/19/First-BLOG-of-Yu-MO/</loc>
+    
+    <lastmod>2023-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/10/19/hello-world/</loc>
+    
+    <lastmod>1985-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2023-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
